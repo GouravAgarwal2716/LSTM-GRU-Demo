@@ -58,6 +58,10 @@ streamlit run app.py
 
 Then open the local URL displayed in the terminal.
 
+You can also access the live deployed app here:
+
+https://lstm-gru-demo-ajvh9jdmxex7jkakni5dhv.streamlit.app/
+
 ## Notes
 
 - The app uses the saved model and tokenizer to predict the next word from a text input.
